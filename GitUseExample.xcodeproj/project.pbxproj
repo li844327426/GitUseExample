@@ -14,6 +14,7 @@
 		7E0570D121B8C5E40077878F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E0570CF21B8C5E40077878F /* LaunchScreen.storyboard */; };
 		7E0570DC21B8C5E40077878F /* GitUseExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E0570DB21B8C5E40077878F /* GitUseExampleTests.swift */; };
 		7E0570E721B8C5E40077878F /* GitUseExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E0570E621B8C5E40077878F /* GitUseExampleUITests.swift */; };
+		7E0570F521B8E7FA0077878F /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E0570F421B8E7FA0077878F /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7E0570E221B8C5E40077878F /* GitUseExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitUseExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E0570E621B8C5E40077878F /* GitUseExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitUseExampleUITests.swift; sourceTree = "<group>"; };
 		7E0570E821B8C5E40077878F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E0570F421B8E7FA0077878F /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				7E0570C621B8C5E20077878F /* AppDelegate.swift */,
 				7E0570C821B8C5E20077878F /* ViewController.swift */,
+				7E0570F421B8E7FA0077878F /* MapForItinerary.swift */,
 				7E0570CA21B8C5E20077878F /* Main.storyboard */,
 				7E0570CD21B8C5E40077878F /* Assets.xcassets */,
 				7E0570CF21B8C5E40077878F /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				7E0570C921B8C5E20077878F /* ViewController.swift in Sources */,
 				7E0570C721B8C5E20077878F /* AppDelegate.swift in Sources */,
+				7E0570F521B8E7FA0077878F /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
